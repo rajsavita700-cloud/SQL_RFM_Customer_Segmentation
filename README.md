@@ -40,7 +40,7 @@ To diagnose these underlying issues, we structured an end-to-end SQL analysis on
 
 The deeper query results revealed a striking insight that directly explains customer churn:
 
-* The case of the one item involved was that within our 'At Risk' group, **74,239 units** of the *Medium Ceramic Top Storage Jar* were purchased. This made it the best-selling item overall in the entire survey, outperforming all the top-selling products in the VIP segment. These high-value customers did not stop buying due to a lack of interest; rather, they ceased their purchases because a particular product that was in high demand went out of stock or experienced a decline in quality.
+* The case of the one item involved was that within our 'At Risk' group, **74,239 units** of the *Medium Ceramic Top Storage Jar* were purchased. This made it the best-selling item overall in the entire survey, outperforming all the top-selling products in the VIP segment. This pattern may indicate a potential retention issue around this product, but further analysis of inventory, pricing, product quality, and customer feedback would be needed to identify the underlying cause
 * **Geographic Imbalance:** Of the **1,293 VIPs**, **1,210 are in the United Kingdom**. Although there is strong order potential in international markets such as Ireland, the Netherlands, Germany, and France, the number of VIPs in these countries is very low.
 
 ---
